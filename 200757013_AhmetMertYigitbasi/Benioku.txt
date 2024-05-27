@@ -1,0 +1,21 @@
+Programı çalıştırdığımızda önümüze üç buton geliyor. bu butonlara bastığımızda form değişiyor ve işlemler yapılıyor.
+ilk buton hasta işlemleri. burada hasta ekleme silme güncelleme gibi işlemler var.
+hasta güncellemek için adını textbox'a girmek gerekiyor. silmek için de sira numarasını yazıp butona basmalıyız.
+(yanlışlıkla güncellemeleri engellemek için böyle yaptım.)
+
+ikinci buton ilaç işlemleri ile ilgili. burada ilaç ekleme, silme, stok arttırma(depodan sipariş), stok azaltma var.
+alınanlar satılanlar butonunda ise trigger ile verileri yönlendirdiğim tabloları göstermektedir.
+azalan stoklar butonu eşik değerin altındaki ilaçları fonksiyon yardımıyla bulup dgv'de listeler.
+
+üçüncü buton ise ilaç işlemleri için.
+reçeteli ve reçetesiz ilaç işlemleri vardır. reçetesiz alınabilecek ilaçlar az sayıdadır.
+
+reçetesiz işlem için önce combobox üzerinden ilaçların adını seçiniz. sonra almak istediğiniz miktarı da girdikten sonra fiyat kontrol butonuna basarsanız ilacın toplam ücretini gösterecektir. satış işlemi için belirli bir aralıkta girmek zorunlu. eksi değerler ve çok büyük sayılar girilirse hata alınır ve stok değişmez.
+listele butonunun çalışması için önce ilacın adını girmemiz gerek. listeleye bastığımızda bahsi geçen ilacın bilgilerini bize getirir.
+
+reçeteli işlem için önce hastanın adı soyadı girilir. daha sonra ilaç tespit butonuyla hastanın reçetesindeki ilacı bulunur. sonra ücret butonuyla birlikte ilacın adet ücreti getirilir. ilaç kısmı boşsa kod hata verir. reçete kontrol kısmı ise trigger ile kontrol ettiğim 15 günü geçen reçetelerin takibini yapar. (reçete olmasa bile recetenin_tarihi değişkenim tarih almakta. dolayısıyla satış yapılmayacak olsa bile bazen messagebox çalışacakmış gibi çıktı veriyor. bu hatayı maalesef çözemedim. ancak kodda hata yok.) reçete yoksa ilaç satışı yapılamaz.
+
+listeleme işlemi ise sadece ilaç alacak kişileri gösterir.
+
+
+

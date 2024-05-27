@@ -1,0 +1,16 @@
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\obj\Debug\eczane_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\obj\Debug\eczane_otomasyonu.Form1.resources
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\obj\Debug\eczane_otomasyonu.Properties.Resources.resources
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\obj\Debug\eczane_otomasyonu.csproj.GenerateResource.cache
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\obj\Debug\eczane_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\bin\Debug\eczane_otomasyonu.exe.config
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\bin\Debug\eczane_otomasyonu.exe
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\bin\Debug\eczane_otomasyonu.pdb
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\obj\Debug\eczane_otomasyonu.exe
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\obj\Debug\eczane_otomasyonu.pdb
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\obj\Debug\eczane_otomasyonu.Form2.resources
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\obj\Debug\eczane_otomasyonu.Form3.resources
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\obj\Debug\eczane_otomasyonu.Form4.resources
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\obj\Debug\eczane_otomasyonu.reçetesiz.resources
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\obj\Debug\eczane_otomasyonu.reçete.resources
+C:\Users\mefis\Source\Repos\eczane_otomasyonu\eczane_otomasyonu\obj\Debug\eczane_otomasyonu.Form5.resources
